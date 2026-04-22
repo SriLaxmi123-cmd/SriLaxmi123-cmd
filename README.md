@@ -1,16 +1,60 @@
-## Hi there 👋
+# 👋 Hi, I'm Kodari Srilaxmi
 
-<!--
-**SriLaxmi123-cmd/SriLaxmi123-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Machine Learning Engineer
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📌 About Me
+✨ Aspiring Machine Learning Engineer and Computer Science student with a strong foundation in Python, data structures, and machine learning concepts.  
+🚀 Passionate about building data-driven solutions and continuously improving through hands-on projects.
+
+---
+
+## 🛠️ Skills
+- 🔹 Python  
+- 🔹 NumPy  
+- 🔹 Pandas  
+- 🔹 Scikit-learn  
+- 🔹 Streamlit  
+- 🔹 Machine Learning  
+- 🔹 Data Structures  
+- 🔹 Git & GitHub  
+- 🔹 API Integration  
+
+---
+
+## 🚀 Projects
+- 🚢 **Titanic Survival Prediction**  
+  Built a machine learning classification model using Python and Scikit-learn.  
+  Performed data cleaning, feature engineering, visualization, and evaluated model accuracy.
+
+- 🤖 **Fake Profile Detection**  
+  Developed a neural network model to detect fake social media profiles.  
+  Implemented preprocessing, feature selection, and model evaluation using deep learning techniques.
+
+---
+
+## 📊 Tools & Technologies
+💻 VS Code | Jupyter Notebook  
+📚 Libraries: NumPy, Pandas, Scikit-learn  
+☁️ Basics of Cloud Deployment  
+
+---
+
+## 📫 Connect With Me
+- 📧 Email: srilaxmikodari36@gmail.com  
+- 💻 GitHub: https://github.com/SriLaxmi123-cmd  
+- 🔗 LinkedIn: https://linkedin.com/in/kodari-sri-laxmi-2b6365405  
+
+---
+
+## ⚡ Fun Fact
+💡 I enjoy transforming raw data into meaningful insights using Machine Learning!
+
+---
+
+⭐️ From [Kodari Srilaxmi](https://github.com/SriLaxmi123-cmd)
